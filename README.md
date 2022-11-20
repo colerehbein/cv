@@ -1,8 +1,10 @@
 # Cole Rehbein
 
-_Graduate student in clinical psychology in New Mexico_ <br>
+_Graduate student in clinical psychology in New Mexico_<br>
 
 [Email](mailto:cole.rehbein@gmail.com) / [Website](tktk) / [LinkedIn](https://www.linkedin.com/in/colerehbein/) / [GitHub](https://github.com/colerehbein/) / [Twitter](https://twitter.com/colerehbein/)
+
+_This CV is still very much under construction._<br>
 
 ## Education
 
