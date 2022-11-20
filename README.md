@@ -4,7 +4,7 @@ _Graduate student in clinical psychology in New Mexico_<br>
 
 [Email](mailto:cole.rehbein@gmail.com) / [Website](tktk) / [LinkedIn](https://www.linkedin.com/in/colerehbein/) / [GitHub](https://github.com/colerehbein/) / [Twitter](https://twitter.com/colerehbein/)
 
-_This CV is still very much under construction. May the day be far away when this is not so._<br>
+_This CV is still very much under construction. May the day when this is not so be far away._<br>
 
 ## Education
 
