@@ -6,6 +6,9 @@ _Graduate student in clinical psychology in New Mexico_ <br>
 
 ## Education
 
+**Master of Science** in Clinical/Counseling Psychology _(in progress)_<br>
+[New Mexico Highlands University](https://www.nmhu.edu) - Las Vegas, New Mexico, USA _(2021 - present)_<br>
+
 **Bachelor of Arts** in Philosophy and the History of Math and Science<br>
 [St. John's College](https://www.sjc.edu) - Santa Fe, New Mexico, USA _(2015 - 2019)_ <br>
 
