@@ -1,0 +1,7 @@
+---
+title: "CV & Resume"
+---
+
+You can download my full CV below and view a shorter resume online.
+
+[Download PDF](CV.pdf){.btn .btn-primary}
