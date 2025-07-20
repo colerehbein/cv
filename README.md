@@ -1,72 +1,68 @@
-# Cole Rehbein
+# Cole Rehbein's CV
 
-_Graduate student in clinical psychology in New Mexico_<br>
+This repository contains my academic curriculum vitae (CV) built using [Quarto](https://quarto.org/) and the [quarto-cv](https://github.com/mps9506/quarto-cv) extension.
 
-[Email](mailto:cole.rehbein@gmail.com) / [Website](tktk) / [LinkedIn](https://www.linkedin.com/in/colerehbein/) / [GitHub](https://github.com/colerehbein/) / [Twitter](https://twitter.com/colerehbein/)
+## 📄 View CV
 
-_This CV is still very much under construction. May the day when this is not so be far away._<br>
+- [Download PDF](https://github.com/colerehbein/cv/releases/latest/download/CV.pdf) (when available)
+- [View at cole.press](https://cole.press/cv/)
 
-## Education
+## 🛠️ Building the CV
 
-**Master of Science** in Clinical/Counseling Psychology _(in progress)_<br>
-[New Mexico Highlands University](https://www.nmhu.edu) - Las Vegas, New Mexico, USA _(2021&nbsp;-&nbsp;present)_<br>
+### Prerequisites
 
-**Bachelor of Arts** in Philosophy and the History of Math and Science<br>
-[St. John's College](https://www.sjc.edu) - Santa Fe, New Mexico, USA _(2015 - 2019)_ <br>
+- [Quarto](https://quarto.org/) (v1.4+)
+- LaTeX distribution (for PDF output)
+- R (optional, for any data processing)
 
-## Psychology Experience
+### Build Instructions
 
-**Clinical psychology intern** @ [New Mexico Behavioral Health Institute](https://www.nmhealth.org/about/ofm/ltcf/nmbhi/) _(Sept. 2022 - present)_ <br>
-I primarily work with adult inpatients who are suffering from severe mental illness. 
-  - Conducting cognitive and neuropsych assessments
-  - Counseling and therapy
-  - **_Tests & therapies used:_** Montreal Cognitive Assessment (MoCA), Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), Brief Acceptance & Commitment Therapy for Psychosis (bACTp)
-<br><br>
+1. Clone this repository:
 
-    
-## Journalism Experience
+   ```bash
+   git clone https://github.com/colerehbein/cv.git
+   cd cv
+   ```
 
-<br><br>
+2. Install the Quarto CV extension (if not already installed):
 
-## Food Service Experience
+   ```bash
+   quarto add mps9506/quarto-cv
+   ```
 
-_I am no longer seeking employment in the food service industry, but I do consider it an important part of the course of my life._
+3. Render the CV:
+   ```bash
+   quarto render CV.qmd
+   ```
 
-**Bartender/server** @ The Skillet _(Aug. 2021 - Nov. 2022)_ <br>
-Often fast-paced and busy work on weekends serving a small, rural, college town clientele. 
-  - Prepared basic and classic cocktails
-  - Designed new cocktail recipes
-  - Provided excellent customer service, especially around liquor and cocktail choices
-<br><br>
-  
+This will generate `CV.pdf` in the project directory.
 
-## 🎤 Public Speaking
-    
-### Recent Appearances
+## 📁 Repository Structure
 
-  
-## 🏆 Accomplishments
+- `CV.qmd` - Main CV source file in Quarto markdown
+- `references/` - Bibliography files organized by publication type
+- `*.csl` - Citation style files for formatting references
+- `index.qmd` - Landing page for web version
 
+## 📝 Updating the CV
 
-## 💬 Languages
+1. Edit `CV.qmd` with your updates
+2. Add new publications to the appropriate `.bib` file in `references/`
+3. Run `quarto render CV.qmd` to generate updated PDF
+4. Commit and push changes
 
-🇺🇸 **English**: Native <br>
-🇲🇽 **Spanish**: B1
-<br><br>
+## 🎨 Customization
 
+The CV uses the `quarto-cv-pdf` format from the [quarto-cv extension](https://github.com/mps9506/quarto-cv). You can customize:
 
-_Format and tutorial thanks to [Carolyn Stranksy](https://workwithcarolyn.com/blog/digital-cv-guide)_
+- Font size: Change `fontsize` in the YAML header
+- Citation style: Switch between the available CSL files
+- Layout: Modify the LaTeX template (if needed)
 
-<!--
-Samples:
-Job description sample: 
+## 📧 Contact
 
-**Clinical psychology intern** @ [New Mexico Behavioral Health Institute](https://www.nmhealth.org/about/ofm/ltcf/nmbhi/) _(Sept. 2022 - present)_ <br>
-I primarily work with adult inpatients who are suffering from severe mental illness. 
-  - Conducting cognitive and neuropsych assessments
-  - Counseling and therapy
-  - **_Tests & therapies used:_** Montreal Cognitive Assessment (MoCA), Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), Brief Acceptance & Commitment Therapy for Psychosis (bACTp)
-  - **_Selected Writing/Work:_**
-    - [writing/work](link)
-<br><br>
--->
+Cole Rehbein - [cole.rehbein@gmail.com](mailto:cole.rehbein@gmail.com)
+
+---
+
+_Graduate student in clinical psychology in New Mexico_

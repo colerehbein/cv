@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+*.pdf
+CV_files/
+_site/
+.quarto/
+*.aux
+*.log
+*.out
+*.synctex.gz
+.Rproj.user 

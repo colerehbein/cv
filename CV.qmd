@@ -8,11 +8,11 @@ phone: 505-429-8744
 address: "618 12th St., Las Vegas, New Mexico, 87701"
 email: cole.rehbein@gmail.com
 fontsize: 11pt
-#github: github # github account
+github: colerehbein # github account
 #orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
-#web: quarto.org
+web: cole.press
 fontawesome: yes
 nocite: "@*"
 bibliography:

@@ -1,0 +1,42 @@
+name: Build CV
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Install Quarto CV extension
+        run: |
+          quarto add mps9506/quarto-cv --no-prompt
+
+      - name: Render CV
+        run: quarto render CV.qmd
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: cv-pdf
+          path: CV.pdf
+
+      - name: Create Release
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ github.run_number }}
+          name: CV Build ${{ github.run_number }}
+          files: CV.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

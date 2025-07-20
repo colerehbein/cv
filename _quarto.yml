@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Cole Rehbein - CV"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: CV.pdf
+        text: Download PDF
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
