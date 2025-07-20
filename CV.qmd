@@ -25,54 +25,29 @@ validate-yaml: false
 csl: apa-annotated-bibliography.csl
 ---
 
+# Professional Summary
+Behavioral health professional with six months' telephonic crisis intervention experience and over three years of clinical work in Northern New Mexico. Conversational Spanish (B1), community organizing, and proficient in Google Workspace, Microsoft Office, and Canva. Eager to turn frontline crisis expertise and deep commitment to the state's multicultural landscape into measurable impact in the New Mexico 988 Outreach Coordinator role. \vspace{3mm}
+
+\hrule
+
 # Education
 
-- _New Mexico Highlands University_, M.S. Clinical Psychology \hfill 2024 (anticipated)
+- _New Mexico Highlands University_, M.S. Clinical Psychology \hfill 2025 (anticipated)
   - **Thesis**: The effectiveness of a brief, mindfulness-based behavioral activation intervention for college students with depression
   - **Advisor**: Dr. David Pan \vspace{5mm}
 - _St. John's College, Santa Fe_, B.A. Philosophy and History of Math and Science \hfill 2019
   - **Minors**: Classical Studies, Comparative Literature
-  - **Senior Paper**: The Internally Determined Self: Spinoza's _Ethics_ as a remedy for postmodernity's identity crisis \vspace{5mm}
+  - **Senior Paper**: The Internally Determined Self: Spinoza's _Ethics_ as a remedy for postmodernity's identity crisis \vspace{3mm}
 
-\hrule
-
-# Research Experience
-
-_Book Chapter_
-
-::: {#refs-bookChapter}
-:::
-
-_Article Under Review_
-
-::: {#refs-underReview}
-:::
-
-_Articles Under Preparation_
-
-::: {#refs-underPrep}
-:::
-
-_Presentations and Lectures_
-
-::: {#refs-presentations}
-:::
-
-_Posters_
-
-::: {#refs-posters}
-:::
-
-\vspace{5mm}
 \hrule
 
 # Clinical Experience
 
 _New Mexico Behavioral Health Institute_
 
-Clinical Psychology Practicum Student \hfill 2022-Current
+Clinical Psychology Intern \hfill 2022-2023
 
-- **Responsibilities**: Conducting cognitive, neuropsychological, and intelligence tests as part of intakes and treatment planning. Assisting with group and individual therapies using brief, acceptance and commitment therapy and mindfulness interventions, with a focus on people with schizophrenia-spectrum disorders.
+- **Responsibilities**: Performed cognitive, neuropsychological, and intelligence tests as part of intakes and treatment planning. Assisted with group and individual therapies using brief Acceptance and Commitment Therapy (ACT) and mindfulness interventions, with a focus on people with schizophrenia-spectrum disorders.
 - **Supervisor**: Dr. Mathias Stricherz
 
 \vspace{1mm}
@@ -81,10 +56,18 @@ _New Mexico Highlands University_
 
 Intervention work for thesis \hfill Fall 2023
 
-- **Responsibilities**: Recruting for and conducting a brief, mindfulness-based behavioral activation intervention for college students with depression.
+- **Responsibilities**: Recruited for and conducted a brief, mindfulness-based behavioral activation intervention for college students with depression.
 - **Supervisor**: Dr. David Pan
 
-\vspace{5mm}
+\vspace{1mm}
+
+_Counseling ABQ_
+
+Counseling Intern \hfill January-August, 2024
+
+- **Responsibilities**: Performed comprehensive biopsychosocial intake assessments for new clients to the practice and provided diagnostic consultation to their ongoing therapists; provided ongoing counseling for clients working on depression, ADHD, and mandated anger management treatment.
+- **Supervisor**: Denise Decker, LMSW
+
 \hrule
 
 # Employment
@@ -96,6 +79,14 @@ Intervention work for thesis \hfill Fall 2023
 _Protocall Services_
 
 \vspace{1mm}
+
+\begin{itemize}
+\item[] Crisis and Access Specialist \hfill January 2025-present
+\item[] \hspace{5mm} \textit{Responsibilities:} Providing crisis triage, intervention, and referral services via phone and chat/text for Protocall's business partners, including New Mexico 988, the New Mexico Crisis and Access Line, and the National Suicide and Prevention Lifeline Backup Network.
+\item[] \hspace{5mm} \textit{Supervisor:} Patricia Bain
+\end{itemize}
+
+\vspace{3mm}
 
 _New Mexico Highlands University_
 
@@ -121,7 +112,7 @@ _New Mexico Highlands University_
 \vspace{1mm}
 
 \item[] Teaching Assistant for First-Year Learning Community \hfill Fall 2022
-\item[] \hspace{5mm} \textit{Responsibilities:} Focused on the psychology part of a combo intro to psych and intro to American history class. Ran two lab sections on Fridays.
+\item[] \hspace{5mm} \textit{Responsibilities:} Focused on the psychology component of an interdisciplinary intro to psych/intro to American history class. Ran two lab sections on Fridays.
 \item[] \hspace{5mm} \textit{Supervisor:} Dr. Thomas R. Brooks
 
 \vspace{1mm}
@@ -179,7 +170,7 @@ _New Mexico Highlands University_
 
 \vspace{1mm}
 
-\item[]Administrative Assistant to Student Life Office \hfill First Semester 2016
+\item[] Administrative Assistant to Student Life Office \hfill First Semester 2016
 \item[] \hspace{5mm} \textit{Responsibilities:} Administrative tasks, student assistance.
 \end{itemize}
 
@@ -209,6 +200,38 @@ Barista, Starbucks \textit{Des Moines, IA} \hfill 2013-2015
 
 \hrule
 
+# Research Experience
+
+_Book Chapter_
+
+::: {#refs-bookChapter}
+:::
+
+_Article Under Review_
+
+::: {#refs-underReview}
+:::
+
+_Articles Under Preparation_
+
+::: {#refs-underPrep}
+:::
+
+_Presentations and Lectures_
+
+::: {#refs-presentations}
+:::
+
+_Posters_
+
+::: {#refs-posters}
+:::
+
+\vspace{5mm}
+\hrule
+
+
+
 # Leadership and Volunteer Experience
 
 \textit{New Mexico Highlands University}
@@ -217,7 +240,7 @@ Barista, Starbucks \textit{Des Moines, IA} \hfill 2013-2015
 \item[] Psychology Department
 \item[] \hspace{3mm} Graduate Liaison Psychology Department \hfill Fall 2023
 \item[] Psi Chi Honor Society
-\item[] \hspace{3mm} President \hfill 2022-present
+\item[] \hspace{3mm} President \hfill 2022-2024
 \item[] Associated Students of New Mexico Highlands University
 \item[] \hspace{3mm} Vice President \& President Pro-Tempore \hfill 2022-2023
 \item[]Campus Advisory Committee on Finance
@@ -255,6 +278,8 @@ Barista, Starbucks \textit{Des Moines, IA} \hfill 2013-2015
 
 # Skills and Professional Development
 
+- _Conversational Spanish, B1 level_
+  - Five years of formal study and a decade of light immersion in New Mexico's Spanish-speaking communities, with particular focus on New Mexico's specific dialect and vocabulary, and the historical/social context around Spanish language use in the state. 
 - _Statistical Analysis with R_
   - Competent in data manipulation, analysis, and visualization using R software.
   - 2-day workshop attended in November 2022.
@@ -262,7 +287,7 @@ Barista, Starbucks \textit{Des Moines, IA} \hfill 2013-2015
   - Experienced in developing Quarto documents for technical and academic publishing.
   - Most class assignments, papers, and thesis written in Quarto markdown and rendered to docx or pdf.
 - _Third-Wave Behavioral Therapies (ACT)_
-  - clinical training in mindfulness-based CBT and ACT, experienced in patient assessment and treatment planning.
+  - Clinical training in mindfulness-based CBT and ACT, experienced in patient assessment and treatment planning.
   - Relevant coursework: Intro to Counseling, Group Therapy, Multicultural Therapy, Behavior Therapy and Assessment
 - _Psychological Assessment_
   - Skilled in conducting cognitive, neuropsychological, and intelligence tests as part of clinical intakes and treatment planning.

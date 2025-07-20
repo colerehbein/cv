@@ -8,4 +8,5 @@ _site/
 *.log
 *.out
 *.synctex.gz
-.Rproj.user 
+.Rproj.user
+/.quarto/
